@@ -3,7 +3,8 @@
 > **ArcesTeam 内部通用模板仓库**
 > 作为 Arces 项目的项目模板体系的基于 [`template-project`](https://github.com/ArcesTeam/template-project) 构建的 Gradle
 > 多模块项目模板仓库，适用于构建其他更复杂模板仓库（如 [
-`template-gradle-neoforge-project`](https://github.com/ArcesTeam/template-gradle-neoforge-project)）的基础模板。
+`template-gradle-neoforge-project`](https://github.com/ArcesTeam/template-gradle-neoforge-project)
+> ）的基础模板。
 
 ---
 
