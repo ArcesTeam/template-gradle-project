@@ -2,9 +2,7 @@
 
 > **ArcesTeam 内部通用模板仓库**
 > 作为 Arces 项目的项目模板体系的基于 [`template-project`](https://github.com/ArcesTeam/template-project) 构建的 Gradle
-> 多模块项目模板仓库，适用于构建其他更复杂模板仓库（如 [
-`template-gradle-neoforge-project`](https://github.com/ArcesTeam/template-gradle-neoforge-project)
-> ）的基础模板。
+> 多模块项目模板仓库，适用于构建其他更复杂模板仓库（如 [`template-gradle-neoforge-project`](https://github.com/ArcesTeam/template-gradle-neoforge-project)）的基础模板。
 
 ---
 
@@ -138,8 +136,7 @@ gh repo create <your-repo-name> --template ArcesTeam/template-gradle-project
 - 🚀 快速搭建带有标准化配置的新仓库；
 - 🔧 构建基础 SDK/API 框架项目
 - 🧪 模块化测试项目结构实验
-- 📁 搭建更复杂模板的基础依赖（推荐使用 [
-  `template-gradle-neoforge-project`](https://github.com/ArcesTeam/template-gradle-neoforge-project) 进行扩展）；
+- 📁 搭建更复杂模板的基础依赖（推荐使用 [`template-gradle-neoforge-project`](https://github.com/ArcesTeam/template-gradle-neoforge-project) 进行扩展）；
 
 ---
 
@@ -160,8 +157,7 @@ gh repo create <your-repo-name> --template ArcesTeam/template-gradle-project
 
 ## 📣 联系我们
 
-此项目由 [ArcesTeam](https://github.com/ArcesTeam) 维护，欢迎提出改进建议或提交
-PR
+此项目由 [ArcesTeam](https://github.com/ArcesTeam) 维护，欢迎提出改进建议或提交 PR
 
 ---
 
