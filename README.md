@@ -1,5 +1,11 @@
 # 📦 template-gradle-project
 
+<!--suppress HtmlDeprecatedAttribute -->
+<p align="right">
+  <strong>CN 简体中文</strong> &nbsp;|&nbsp;
+  <a href="https://github.com/ArcesTeam/{{project-name}}/blob/main/.github/lang/en-US/README.md" title="English">EN English</a>
+</p>
+
 > **ArcesTeam 内部通用模板仓库**
 > 作为 Arces 项目的项目模板体系的基于 [`template-project`](https://github.com/ArcesTeam/template-project) 构建的 Gradle
 > 多模块项目模板仓库，适用于构建其他更复杂模板仓库（如 [`template-gradle-neoforge-project`](https://github.com/ArcesTeam/template-gradle-neoforge-project)）的基础模板。
